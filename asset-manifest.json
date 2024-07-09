@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Filmnet_React/static/css/main.6221c2d3.css",
+    "main.js": "/Filmnet_React/static/js/main.7032944a.js",
+    "static/media/slide2.jpg": "/Filmnet_React/static/media/slide2.2a4624c597071bbf30c4.jpg",
+    "static/media/slide3.jpg": "/Filmnet_React/static/media/slide3.a8c932531a7cc74a419d.jpg",
+    "static/media/slide1.jpg": "/Filmnet_React/static/media/slide1.3acf6da2c8d92886d8c0.jpg",
+    "static/media/banner1.jpg": "/Filmnet_React/static/media/banner1.82dd24d9a1bda954064a.jpg",
+    "static/media/Vazirmatn-Light.ttf": "/Filmnet_React/static/media/Vazirmatn-Light.c1d8b7471a3443b033dc.ttf",
+    "static/media/مافیا.png": "/Filmnet_React/static/media/مافیا.57cf2bf5ecaeaa1301b5.png",
+    "static/media/مااهی.png": "/Filmnet_React/static/media/مااهی.e4de3e6a16e72ea1a2a5.png",
+    "static/media/چوجه.png": "/Filmnet_React/static/media/چوجه.f239e55ddc59a96bb123.png",
+    "index.html": "/Filmnet_React/index.html",
+    "main.6221c2d3.css.map": "/Filmnet_React/static/css/main.6221c2d3.css.map",
+    "main.7032944a.js.map": "/Filmnet_React/static/js/main.7032944a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6221c2d3.css",
+    "static/js/main.7032944a.js"
+  ]
+}
