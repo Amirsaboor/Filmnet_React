@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "vaziri";
+    src: url(../public/Vazirmatn-Light.ttf);
+}
+.body{
+    direction: rtl;
+    font-family: "vazir";
+    height: auto;
+    background-color:#1C1C1C ;
+    color:white;
+}

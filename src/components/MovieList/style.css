@@ -1,0 +1,68 @@
+.cardImage{
+    height: 400px;
+    border-radius: 8px;
+}
+.boxImage{
+    max-height: 250px;
+    transition: 500ms;
+    margin-bottom: 20px;
+    overflow: hidden;
+    
+}
+
+.card{
+    box-sizing: border-box;
+    border:2px solid #d32b4d00;
+
+}
+.card:hover{
+    border:2px solid #d32b4e;
+    transition: 200ms;
+}
+.card:hover .cardImage{
+    transform: scale(1.02);
+    transition:ease-in-out 200ms;
+}
+
+
+.card:not(:hover){
+    transition: 200ms;
+    filter:blur(2px) !important;
+}
+
+.button{
+    background-color: #d32b4e;
+    border: none;
+}
+.button:hover{
+    background-color: #db0933;
+}
+
+.rowMovie{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    overflow-x: scroll;
+    background-color: #292929;
+}
+.rowMovie::-webkit-scrollbar {
+    width: 50 px;
+    height: 7px;
+}
+ 
+.rowMovie::-webkit-scrollbar-thumb {
+    background: #4b4a4a;
+    border-radius: 5px;
+}
+ 
+.rowMovie::-webkit-scrollbar-track {
+    background: #292929;
+    border-radius: 10px;
+}
+
+
+hr{
+    margin-top: 40px;
+    border-top: 3px solid #da002c!important;
+
+}

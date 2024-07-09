@@ -1,0 +1,13 @@
+.breadcrumb{
+    display: flex;
+    font-size: 13px;
+}
+.accordion-button{
+    background-color: #1c1c1cea;
+    color: white;
+}
+.accordion-button:not(.collapsed) {
+    color: white;
+    background-color: #1c1c1c;
+
+}
